@@ -81,10 +81,9 @@ if np.linalg.norm(delta_twist) < 1e-4 or not within_joint_limit:
                 return {"status": "screw plan failed"}
 ```
 ## 4. PRISM 
-### 4.1 Install DP
 1. Install PRISM
 ```
-cd policy/PRISM/PRISM && pip install -e . && cd ..
+cd policy/PRISM-Policy/PRISM-Policy && pip install -e . && cd ..
 ```
 2. Install some necessary package
 ```
