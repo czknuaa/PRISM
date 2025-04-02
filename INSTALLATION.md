@@ -11,6 +11,7 @@ Operating systems:
 
 Hardware:
 NVIDIA RTX GPU
+
 Software:
 NVIDIA Driver >= 520
 
