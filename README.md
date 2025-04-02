@@ -7,18 +7,18 @@
 See [INSTALLATION.md](./INSTALLATION.md) for installation instructions.
 
 ## 🧑🏻‍💻 Usage 
-## 1. Task Running and Data Collection
+### 1. Task Running and Data Collection
 Running the following command will first search for a random seed for the target collection quantity (default is 100), and then replay the seed to collect data.
 ```
 bash run_task.sh ${task_name} ${gpu_id}
 ```
-## 2. Training PRISM
+### 2. Training PRISM
 Then, move to `policy/PRISM-Policy` first, and run the following code to train DP3:
 ```
 bash train.sh ${task_name} ${head_camera_type} ${expert_data_num} ${seed} ${gpu_id}
 # As example: bash train.sh block_hammer_beat L515 100 0 0
 ```
-## 3. Evaluating PRISM
+### 3. Evaluating PRISM
 Run the following code to evaluate PRISM for a specific task:
 ```
 bash eval.sh ${task_name} ${head_camera_type} ${expert_data_num} ${checkpoint_num} ${seed} ${gpu_id}
