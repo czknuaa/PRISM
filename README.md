@@ -1,12 +1,12 @@
 <h1 align="center">
 	PRISM: Pointcloud Reintegrated Inference via Segmentation and Cross-attention for Manipulation<br>
 </h1>
-
-# 🛠️ Installation
+# Getting Started
+## 🛠️ Installation
 > Please note that you need to strictly follow the steps: **Modify `mplib` Library Code** and **Download Assert**.
 See [INSTALLATION.md](./INSTALLATION.md) for installation instructions.
 
-# 🧑🏻‍💻 Usage 
+## 🧑🏻‍💻 Usage 
 ## 1. Task Running and Data Collection
 Running the following command will first search for a random seed for the target collection quantity (default is 100), and then replay the seed to collect data.
 ```
