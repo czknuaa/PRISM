@@ -13,7 +13,7 @@ Hardware:
 NVIDIA RTX GPU
 Software:
 NVIDIA Driver >= 520
-
+CUDA = 12.1(recommended)
 ## 0. Install Vulkan
 ```
 sudo apt install libvulkan1 mesa-vulkan-drivers vulkan-tools
