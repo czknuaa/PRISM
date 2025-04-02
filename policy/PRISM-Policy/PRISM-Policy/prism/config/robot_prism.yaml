@@ -18,7 +18,7 @@ obs_as_global_cond: True
 policy:
   _target_: prism.policy.prism.PRISM
   use_point_crop: true
-  condition_type: film  
+  condition_type: cross_attention_film  
   use_down_condition: true
   use_mid_condition: true
   use_up_condition: true
