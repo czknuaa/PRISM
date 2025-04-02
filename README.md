@@ -1,5 +1,5 @@
 <h1 align="center">
-	ointcloud Reintegrated Inference via Segmentation and Cross-attention for Manipulation<br>
+	PRISM: Pointcloud Reintegrated Inference via Segmentation and Cross-attention for Manipulation<br>
 </h1>
 
 # 🛠️ Installation
