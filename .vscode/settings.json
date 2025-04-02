@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./policy/PRISM-Policy/PRISM-Policy"
+    ]
+}

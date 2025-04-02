@@ -1,0 +1,23 @@
+aloha_maniskill_sim/
+models/
+data/*
+!data/instructions
+__pycache__/
+policy/PRISM-Policy/PRISM-Policy/data/
+policy/PRISM-Policy/PRISM-Policy/checkpoints/
+result/
+#third_party/
+result_prism/
+#task_config/seeds/*.txt
+run_all_task.sh
+#task_config/*
+*.zip
+
+# Code Generation
+robotwin.py
+gpt_api/*
+
+
+policy/weights/*
+policy/openpi/*
+!policy/weights/README.md
