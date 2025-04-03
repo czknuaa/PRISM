@@ -9,7 +9,7 @@
 
 ![Method](./files/method.png)
 ![task](./files/task.png)
-![task](./files/blocks_stack.mp4)
+![result](./files/result.png)
 
 # 📚 Getting Started
 
