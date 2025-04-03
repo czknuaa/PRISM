@@ -9,7 +9,7 @@
 
 ![Method](./files/method.png)
 ![task](./files/task.png)
-![result](./files/result.png)
+![result](./files/Result.png)
 
 # 📚 Getting Started
 
