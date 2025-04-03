@@ -3,6 +3,7 @@
 </h1>
 
 ![Method](./files/method.png)
+![task](./files/task.png)
 # 📚 Getting Started
 
 ## 🛠️ Installation
