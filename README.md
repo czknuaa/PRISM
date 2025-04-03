@@ -1,7 +1,7 @@
 <h1 align="center">
 	PRISM: Pointcloud Reintegrated Inference via Segmentation and Cross-attention for Manipulation<br>
 </h1>
-![blocks_stack](./files/)
+![blocks_stack](./files/blocks_stack.mp4)
 ![Method](./files/method.png)
 ![task](./files/task.png)
 ![task](./files/blocks_stack.mp4)
