@@ -4,7 +4,7 @@
 
 ![Method](./files/method.png)
 ![task](./files/task.png)
-![task](./files/pick apple messy.mp4)
+![task](./files/blocks_stack.mp4)
 
 # 📚 Getting Started
 
