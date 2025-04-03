@@ -28,6 +28,7 @@ bash eval.sh ${task_name} ${head_camera_type} ${expert_data_num} ${checkpoint_nu
 # As example: bash eval.sh block_hammer_beat L515 100 3000 0 0
 ```
 # Reference
+```bibtex
 @article{mu2024robotwin,
   title={RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins (early version)},
   author={Mu, Yao and Chen, Tianxing and Peng, Shijia and Chen, Zanxin and Gao, Zeyu and Zou, Yude and Lin, Lunkai and Xie, Zhiqiang and Luo, Ping},
