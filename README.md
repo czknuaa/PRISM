@@ -31,4 +31,4 @@ bash eval.sh ${task_name} ${head_camera_type} ${expert_data_num} ${checkpoint_nu
 <a id="RoboTwin"></a>
 [1] Y. Mu, T. Chen, S. Peng, Z. Chen, Z. Gao, Y. Zou, L. Lin, Z. Xie, and P. Luo,  
 "RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins (early version),"  
-arXiv preprint [arXiv:2409.02920](https://arxiv.org/abs/2409.02920), 2024.
+arXiv preprint [arXiv:2409.02920](https://arxiv.org/abs/2409.02920), 2024. [github](https://github.com/TianxingChen/RoboTwin)
