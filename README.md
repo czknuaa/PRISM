@@ -21,7 +21,7 @@ Running the following command will first search for a random seed for the target
 bash run_task.sh ${task_name} ${gpu_id}
 ```
 ### 2. Training PRISM
-Then, move to `policy/PRISM-Policy` first, and run the following code to train DP3:
+Then, move to `policy/PRISM-Policy` first, and run the following code to train PRISM:
 ```
 bash train.sh ${task_name} ${head_camera_type} ${expert_data_num} ${seed} ${gpu_id}
 # As example: bash train.sh block_hammer_beat L515 100 0 0
