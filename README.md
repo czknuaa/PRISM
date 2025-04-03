@@ -2,6 +2,7 @@
 	PRISM: Pointcloud Reintegrated Inference via Segmentation and Cross-attention for Manipulation<br>
 </h1>
 
+![apple](./files/pick_apple_messy.gif)
 
 ![Method](./files/method.png)
 ![task](./files/task.png)
