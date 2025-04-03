@@ -4,6 +4,8 @@
 
 ![apple](./files/pick_apple_messy.gif)
 ![messy](./files/empty_cup_place_messy.gif)
+![cup](./files/empty_cup_place.gif)
+![block](./files/blocks_stack.gif)
 ![Method](./files/method.png)
 ![task](./files/task.png)
 ![task](./files/blocks_stack.mp4)
