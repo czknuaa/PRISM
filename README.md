@@ -23,7 +23,7 @@ bash train.sh ${task_name} ${head_camera_type} ${expert_data_num} ${seed} ${gpu_
 # As example: bash train.sh block_hammer_beat L515 100 0 0
 ```
 ### 3. Evaluating PRISM
-Run the following code to evaluate PRISM for a specific task:
+Move to `policy/PRISM-Policy` first, run the following code to evaluate PRISM for a specific task:
 ```
 bash eval.sh ${task_name} ${head_camera_type} ${expert_data_num} ${checkpoint_num} ${seed} ${gpu_id}
 # As example: bash eval.sh block_hammer_beat L515 100 3000 0 0
