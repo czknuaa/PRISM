@@ -4,6 +4,8 @@
 
 ![Method](./files/method.png)
 ![task](./files/task.png)
+![task](./files/pick apple messy.png)
+
 # 📚 Getting Started
 
 ## 🛠️ Installation
