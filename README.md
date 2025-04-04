@@ -8,7 +8,10 @@
 
 
 ![Method](./files/method.png)
-<img src="./files/task.png" alt="task" width="500">
+<p align="center">
+  <img src="./files/task.png" alt="task" width="500">
+</p>
+
 
 ![result](./files/Result.png)
 
