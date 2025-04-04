@@ -13,7 +13,7 @@
 ![Method](./files/method.png)
 ## 🧑🏻‍💻 Task
 <p align="center">
-  <img src="./files/task.png" alt="task" width="450"> <img src="./files/task_descrip.png" alt="task_descrip" width="550">
+  <img src="./files/task.png" alt="task" width="420"> <img src="./files/task_descrip.png" alt="task_descrip" width=600">
 </p>
 
 
