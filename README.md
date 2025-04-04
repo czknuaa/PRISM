@@ -13,11 +13,9 @@
 ![Method](./files/method.png)
 ## 🧑🏻‍💻 Task
 <p align="center">
-  <img src="./files/task.png" alt="task" width="500"> <img src="./files/task_descrip.png" alt="task_descrip" width="500">
+  <img src="./files/task.png" alt="task" width="300"> <img src="./files/task_descrip.png" alt="task_descrip" width="700">
 </p>
-<p align="center">
 
-</p>
 
 
 ## 🧑🏻‍💻 Result
