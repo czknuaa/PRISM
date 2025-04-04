@@ -2,6 +2,7 @@
 	PRISM: Pointcloud Reintegrated Inference via Segmentation and Cross-attention for Manipulation<br>
 </h1>
 # 📚 PRISM
+## 🛠️ Demo
 | <img src="./files/blocks_stack.gif" width="500"> | <img src="./files/empty_cup_place.gif" width="500"> |
 | --- | --- |
 | <img src="./files/empty_cup_place_messy.gif" width="500"> | <img src="./files/pick_apple_messy.gif" width="500"> |
