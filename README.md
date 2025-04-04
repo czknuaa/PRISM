@@ -1,18 +1,19 @@
 <h1 align="center">
 	PRISM: Pointcloud Reintegrated Inference via Segmentation and Cross-attention for Manipulation<br>
 </h1>
-
+# 📚 PRISM
 | <img src="./files/blocks_stack.gif" width="500"> | <img src="./files/empty_cup_place.gif" width="500"> |
 | --- | --- |
 | <img src="./files/empty_cup_place_messy.gif" width="500"> | <img src="./files/pick_apple_messy.gif" width="500"> |
 
-
+## 🛠️ Method
 ![Method](./files/method.png)
+## 🧑🏻‍💻 Task
 <p align="center">
   <img src="./files/task.png" alt="task" width="500">
 </p>
 
-
+## 🧑🏻‍💻 Result
 ![result](./files/Result.png)
 
 # 📚 Getting Started
