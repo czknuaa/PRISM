@@ -18,6 +18,7 @@
 
 
 
+
 ## 🧑🏻‍💻 Result
 ![result](./files/Result.png)
 
@@ -50,3 +51,12 @@ bash eval.sh ${task_name} ${head_camera_type} ${expert_data_num} ${checkpoint_nu
 [1] Y. Mu, T. Chen, S. Peng, Z. Chen, Z. Gao, Y. Zou, L. Lin, Z. Xie, and P. Luo,  
 "RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins (early version),"  
 arXiv preprint [arXiv:2409.02920](https://arxiv.org/abs/2409.02920), 2024. [github](https://github.com/TianxingChen/RoboTwin)
+
+
+
+# Acknowledge
+- Our diffusion module is adapted from Diffusion Policy. This part is under MIT License.
+- Our transformer module is adapted from ACT, which used DETR in their implementations. The DETR part is under APACHE 2.0 License.
+- Our Minkowski ResNet observation encoder is adapted from the examples of the MinkowskiEngine repository. This part is under MIT License.
+- Our temporal ensemble implementation is inspired by the recent HATO project.
+
