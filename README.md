@@ -55,8 +55,7 @@ arXiv preprint [arXiv:2409.02920](https://arxiv.org/abs/2409.02920), 2024. [gith
 
 
 # Acknowledge
-- Our diffusion module is adapted from Diffusion Policy. This part is under MIT License.
-- Our transformer module is adapted from ACT, which used DETR in their implementations. The DETR part is under APACHE 2.0 License.
-- Our Minkowski ResNet observation encoder is adapted from the examples of the MinkowskiEngine repository. This part is under MIT License.
-- Our temporal ensemble implementation is inspired by the recent HATO project.
+- Our diffusion module, Pointnet module is adapted from Diffusion Policy. This part is under MIT License.
+- Our cross attention module is adapted from RDT.
+
 
