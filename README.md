@@ -52,5 +52,6 @@ arXiv preprint [arXiv:2409.02920](https://arxiv.org/abs/2409.02920), 2024. [gith
 # Acknowledge
 - Our diffusion module, Pointnet module is adapted from Diffusion Policy. This part is under MIT License.
 - Our cross attention module is adapted from RDT.
+- The benchmark is adopted from RoboTwin.
 
 
