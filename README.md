@@ -47,4 +47,5 @@ bash eval.sh ${task_name} ${head_camera_type} ${expert_data_num} ${checkpoint_nu
 - Our cross attention module is adapted from RDT.
 - Our simulation environment is adapted from [RoboTwin](https://github.com/TianxingChen/RoboTwin).
 
-
+# 🏷️ License
+This repository is released under the MIT license. See [LICENSE](./LICENSE) for additional details.
