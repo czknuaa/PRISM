@@ -3,11 +3,11 @@
 </h1>
 
 # 📚 PRISM
-![result](./files/abstra.png)
+![abstra](./files/abstra.png)
 ## 🛠️ Demo
-| <img src="./files/blocks_stack.gif" width="400"> | <img src="./files/empty_cup_place.gif" width="400"> |
+| <img src="./files/blocks_stack.gif" width="450"> | <img src="./files/empty_cup_place.gif" width="450"> |
 | --- | --- |
-| <img src="./files/empty_cup_place_messy.gif" width="400"> | <img src="./files/pick_apple_messy.gif" width="400"> |
+| <img src="./files/empty_cup_place_messy.gif" width="450"> | <img src="./files/pick_apple_messy.gif" width="450"> |
 
 ## 🛠️ Policy
 ![Method](./files/method.png)
