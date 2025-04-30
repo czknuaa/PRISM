@@ -3,7 +3,7 @@
 </h1>
 
 # 📚 PRISM
-
+![result](./files/abstra.png)
 ## 🛠️ Demo
 | <img src="./files/blocks_stack.gif" width="500"> | <img src="./files/empty_cup_place.gif" width="500"> |
 | --- | --- |
