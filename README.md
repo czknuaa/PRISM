@@ -45,6 +45,6 @@ bash eval.sh ${task_name} ${head_camera_type} ${expert_data_num} ${checkpoint_nu
 # Acknowledgements
 - Our diffusion module, Pointnet module is adapted from Diffusion Policy. This part is under MIT License.
 - Our cross attention module is adapted from RDT.
-- Our simulation environment is adapted from RoboTwin.[github](https://github.com/TianxingChen/RoboTwin).
+- Our simulation environment is adapted from [RoboTwin](https://github.com/TianxingChen/RoboTwin).
 
 
