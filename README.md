@@ -17,11 +17,6 @@
 </p>
 
 
-
-
-## 🧑🏻‍💻 Result
-![result](./files/Result.png)
-
 # 📚 Getting Started
 
 ## 🛠️ Installation
