@@ -2,7 +2,7 @@
 	PRISM: Pointcloud Reintegrated Inference via Segmentation and Cross-attention for Manipulation<br>
 </h1>
 
-Daqi Huang<sup>* </sup>, Zhehao Cai<sup>* </sup>, Yuzhi Hao, Zechen Li, Chee-Meng Chew<sup>†</sup>
+
 
 # 🚀 PRISM
 ![abstra](./files/abstra.png)
