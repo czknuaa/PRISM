@@ -3,7 +3,7 @@
 </h1>
 
 Daqi Huang<sup>* </sup>, Zhehao Cai<sup>* </sup>, Yuzhi Hao, Zechen Li, Chee-Meng Chew<sup>†</sup>
-
+[arxiv](http://arxiv.org/abs/2507.04633)
 # 🚀 PRISM
 ![abstra](./files/abstra.png)
 ## 🖼️ Demo
