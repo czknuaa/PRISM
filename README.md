@@ -4,7 +4,7 @@
 
 <br>Daqi Huang<sup>* </sup>, Zhehao Cai<sup>* </sup>, Yuzhi Hao, Zechen Li, Chee-Meng Chew<sup>†</sup>
 
-[PDF](https://arxiv.org/pdf/2507.04633)|[arxiv](http://arxiv.org/abs/2507.04633)<br>
+[PDF](https://arxiv.org/pdf/2507.04633) | [arxiv](http://arxiv.org/abs/2507.04633)<br>
 # 🚀 PRISM
 ![abstra](./files/abstra.png)
 ## 🖼️ Demo
