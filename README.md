@@ -43,6 +43,18 @@ Move to `policy/PRISM-Policy` first, run the following code to evaluate PRISM fo
 bash eval.sh ${task_name} ${head_camera_type} ${expert_data_num} ${checkpoint_num} ${seed} ${gpu_id}
 # As example: bash eval.sh block_hammer_beat L515 100 3000 0 0
 ```
+# 🔖 Citation
+```
+@misc{huang2025prismpointcloudreintegratedinference,
+      title={PRISM: Pointcloud Reintegrated Inference via Segmentation and Cross-attention for Manipulation}, 
+      author={Daqi Huang and Zhehao Cai and Yuzhi Hao and Zechen Li and Chee-Meng Chew},
+      year={2025},
+      eprint={2507.04633},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2507.04633}, 
+}
+```
 
 # 🙏 Acknowledgements
 - Our diffusion module, Pointnet module is adapted from Diffusion Policy. This part is under MIT License.
