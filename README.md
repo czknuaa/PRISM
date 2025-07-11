@@ -44,7 +44,7 @@ Move to `policy/PRISM-Policy` first, run the following code to evaluate PRISM fo
 bash eval.sh ${task_name} ${head_camera_type} ${expert_data_num} ${checkpoint_num} ${seed} ${gpu_id}
 # As example: bash eval.sh block_hammer_beat L515 100 3000 0 0
 ```
-```
+
 
 # 🙏 Acknowledgements
 - Our diffusion module, Pointnet module is adapted from Diffusion Policy. This part is under MIT License.
