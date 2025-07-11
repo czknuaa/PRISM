@@ -1,10 +1,4 @@
-<h1 align="center">
-    PRISM: Pointcloud Reintegrated Inference via Segmentation and Cross-attention for Manipulation<br>
-</h1>
 
-<br>Daqi Huang<sup>* </sup>, Zhehao Cai<sup>* </sup>, Yuzhi Hao, Zechen Li, Chee-Meng Chew<sup>†</sup>
-
-[PDF](https://arxiv.org/pdf/2507.04633) | [arxiv](http://arxiv.org/abs/2507.04633)<br>
 # 🚀 PRISM
 ![abstra](./files/abstra.png)
 ## 🖼️ Demo
@@ -44,24 +38,12 @@ Move to `policy/PRISM-Policy` first, run the following code to evaluate PRISM fo
 bash eval.sh ${task_name} ${head_camera_type} ${expert_data_num} ${checkpoint_num} ${seed} ${gpu_id}
 # As example: bash eval.sh block_hammer_beat L515 100 3000 0 0
 ```
-# 🔖 Citation
-```
-@misc{huang2025prismpointcloudreintegratedinference,
-      title={PRISM: Pointcloud Reintegrated Inference via Segmentation and Cross-attention for Manipulation}, 
-      author={Daqi Huang and Zhehao Cai and Yuzhi Hao and Zechen Li and Chee-Meng Chew},
-      year={2025},
-      eprint={2507.04633},
-      archivePrefix={arXiv},
-      primaryClass={cs.RO},
-      url={https://arxiv.org/abs/2507.04633}, 
-}
-```
+
 
 # 🙏 Acknowledgements
 - Our diffusion module, Pointnet module is adapted from Diffusion Policy. This part is under MIT License.
 - Our cross attention module is adapted from RDT.
 - Our simulation environment is adapted from [RoboTwin](https://github.com/TianxingChen/RoboTwin).
 
-# 🏷 License
-This repository is released under the MIT license. See [LICENSE](./LICENSE.txt) for additional details.
+
 
