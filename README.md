@@ -6,7 +6,7 @@
 
 Accepted by IEEE RA-L(Robotics and Automation Letters)
 
-[PDF](https://arxiv.org/pdf/2507.04633) | [arxiv](http://arxiv.org/abs/2507.04633)<br>
+[PDF](https://ieeexplore.ieee.org/document/11150701) | [arxiv](http://arxiv.org/abs/2507.04633)<br>
 # 🚀 PRISM
 ![abstra](./files/abstra.png)
 ## 🖼️ Demo
