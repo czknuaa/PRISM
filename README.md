@@ -48,15 +48,16 @@ bash eval.sh ${task_name} ${head_camera_type} ${expert_data_num} ${checkpoint_nu
 ```
 # 🔖 Citation
 ```
-@misc{huang2025prismpointcloudreintegratedinference,
-      title={PRISM: Pointcloud Reintegrated Inference via Segmentation and Cross-attention for Manipulation}, 
-      author={Daqi Huang and Zhehao Cai and Yuzhi Hao and Zechen Li and Chee-Meng Chew},
-      year={2025},
-      eprint={2507.04633},
-      archivePrefix={arXiv},
-      primaryClass={cs.RO},
-      url={https://arxiv.org/abs/2507.04633}, 
-}
+@ARTICLE{11150701,
+  author={Huang, Daqi and Cai, Zhehao and Hao, Yuzhi and Li, Zechen and Chew, Chee-Meng},
+  journal={IEEE Robotics and Automation Letters}, 
+  title={PRISM: Pointcloud Reintegrated Inference via Segmentation and Cross-attention for Manipulation}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-8},
+  keywords={Robots;Point cloud compression;Three-dimensional displays;Feature extraction;Imitation learning;Visualization;Noise;Training;Manuals;Data models;Imitation Learning;Perception for Manipulation;Point Cloud Segmentation;Sensor Fusion;Diffusion Model},
+  doi={10.1109/LRA.2025.3606379}}
 ```
 
 # 🙏 Acknowledgements
